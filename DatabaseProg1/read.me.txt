@@ -1,0 +1,6 @@
+Nikola Vukic
+9/8/2019
+I developed my code on Visual studio code at Windows.
+If we want to start completely without keeping old data we should wirt delete file: car.txt, dealer.txt and manufacturer.txt
+I first created empty txt file for dealers, cars, and manufacturers. Then, I started with adding them into files.
+After that, I read all of them as a list. Then, I worked on find special data.

@@ -1,0 +1,6 @@
+Nikola Vukic
+11/27/2019
+I developed my code on Visual studio code at Windows.
+There is no special instruction how to run the code. 
+It is possible to add VIN and Dealer name to Car table if doesn't exists in Dealer and Manufacturer table. 
+Everything else should work. 
